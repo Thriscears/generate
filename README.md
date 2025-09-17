@@ -4,7 +4,7 @@
 
 ```bash
 
-2025-09-17 - 21:39:26 UTC
+2025-09-17 - 21:46:49 UTC
 
 ```
 
@@ -16,7 +16,7 @@ Host Name : runnervmf4ws1
 
 platform  : Linux-6.11.0-1018-azure-x86_64-with-glibc2.39
 
-Ip Local  : 10.1.1.1
+Ip Local  : 10.1.0.235
 
 ```
 
